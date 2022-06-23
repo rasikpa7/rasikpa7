@@ -19,5 +19,5 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Flutter` and `Restapi`.
 - :thinking: I’m currently open for a new `job opportunity`,
--  this is [MY RESUME]([https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing](https://docs.google.com/document/d/1lMVW71a-vFbGlAUYqmFifETUvw_00_lgf_bhT-VbvrY/edit?usp=sharing)).
+-  this is [MY RESUME] (https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing](https://docs.google.com/document/d/1lMVW71a-vFbGlAUYqmFifETUvw_00_lgf_bhT-VbvrY/edit?usp=sharing).
 - :nerd_face: Always `learning new things`
