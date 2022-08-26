@@ -48,6 +48,6 @@
 
   <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/salsalvm/count.svg" />  
+  <img src="https://profile-counter.glitch.me/rasikpa7/count.svg" />  
 </p>
 <hr>
