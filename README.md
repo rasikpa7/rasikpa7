@@ -10,10 +10,9 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Tranie` at Brototype bootcamp in kochi
+- :school: I am a Flutter Developer
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Flutter` and `Restapi`.
-- :thinking: I’m currently open for a new `job opportunity`,
+- :student: I’m currently learning: Express js
 - :nerd_face: Always `learning new things`
 
 <br>
